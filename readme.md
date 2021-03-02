@@ -1,7 +1,3 @@
----
-title: WINC1500 HTTP POST/Get Example Project
----
-
 # WINC1500 HTTP POST/Get Example Project
 
 This is an example project code of HTTP Post/ Get feature on WINC1500 Wi-Fi module
